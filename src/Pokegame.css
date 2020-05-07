@@ -1,0 +1,15 @@
+.winning-hand{
+    color: green;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.losing-hand{
+    color: red;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.Stack2{
+    padding-bottom: 40px;
+}
